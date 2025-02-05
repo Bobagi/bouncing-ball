@@ -22,11 +22,9 @@ Este projeto foi inspirado por uma publicação no Threads e tem como objetivo a
 
 Abaixo, você pode ver uma comparação entre as execuções das duas versões do código:
 
-### 🧠 DeepSeek R1
-![DeepSeek R1](deepseek.gif)
-
-### 💬 ChatGPT 03-mini-high
-![ChatGPT 03-mini-high](gpt.gif)
+| 🧠 **DeepSeek R1** | 💬 **ChatGPT 03-mini-high** |
+|:------------------:|:---------------------------:|
+| ![DeepSeek R1](deepseek.gif) | ![ChatGPT 03-mini-high](gpt.gif) |
 
 ## 🚀 Como Executar
 
