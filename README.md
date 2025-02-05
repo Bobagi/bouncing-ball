@@ -1,24 +1,34 @@
 # bouncing-ball
 
-## Descrição do Projeto
+## 📊 Descrição do Projeto
 
 Este repositório contém implementações de um programa em Python que exibe uma bola quicando dentro de um hexágono giratório. A bola é afetada pela gravidade e pelo atrito, e interage de forma realista com as paredes rotativas do hexágono. O objetivo deste projeto é analisar e comparar os resultados gerados por duas inteligências artificiais distintas: DeepSeek R1 e ChatGPT 03-mini-high.
 
-## Prompt Original
+## 💡 Prompt Original
 
 > Escreva um programa em Python que mostre uma bola quicando dentro de um hexágono giratório. A bola deve ser afetada pela gravidade e pelo atrito, e deve quicar nas paredes giratórias de forma realista.
 
-## Implementações
+## 🤖 Implementações
 
 - **DeepSeek R1**: Uma inteligência artificial de código aberto desenvolvida pela startup chinesa DeepSeek. O modelo R1 é reconhecido por sua eficiência e capacidade de raciocínio avançado, rivalizando com modelos como o o1 da OpenAI. ([github.com](https://github.com/deepseek-ai/DeepSeek-R1?utm_source=chatgpt.com))
 
 - **ChatGPT 03-mini-high**: Um modelo de inteligência artificial desenvolvido pela OpenAI, conhecido por suas respostas rápidas e precisas, especialmente em tarefas de codificação e raciocínio. A versão 03-mini-high oferece respostas de alta qualidade, sendo particularmente útil para tarefas de programação. ([openai.com](https://openai.com/index/openai-o3-mini/?utm_source=chatgpt.com))
 
-## Objetivo
+## 🎯 Objetivo
 
 Este projeto foi inspirado por uma publicação no Threads e tem como objetivo analisar o resultado final do script gerado por cada uma dessas inteligências artificiais, comparando suas abordagens e eficiências na resolução do problema proposto.
 
-## Como Executar
+## 🔍 Comparação Visual
+
+Abaixo, você pode ver uma comparação entre as execuções das duas versões do código:
+
+### 🧠 DeepSeek R1
+![DeepSeek R1](deepseek.gif)
+
+### 💬 ChatGPT 03-mini-high
+![ChatGPT 03-mini-high](gpt.gif)
+
+## 🚀 Como Executar
 
 1. Clone este repositório:
 
@@ -50,11 +60,11 @@ Este projeto foi inspirado por uma publicação no Threads e tem como objetivo a
    python src/gpt-03-mini-high/main.py
    ```
 
-## Contribuição
+## 🤝 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novas implementações.
 
-## Licença
+## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes. 
 
